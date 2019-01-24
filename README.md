@@ -1,4 +1,4 @@
-# README
+# Ruby Portfolio Application 
 
 
 Things you may want to cover:
